@@ -1,5 +1,5 @@
 {
-    "name": "@taishira/calculator",
-    "version": "1.0.1",
+    "name": "@taishira/culculator",
+    "version": "0.0.1",
     "exports": "./mod.ts"
 }
