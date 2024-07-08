@@ -46,3 +46,13 @@ export function add(a: number, b: number): number {
     return a / b;
   }
   
+
+  /**
+ * Square a number
+ *
+ * @param x The number to square
+ * @returns x squared
+ */
+export function square(x: number): number {
+  return x * x;
+}

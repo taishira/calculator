@@ -75,6 +75,22 @@ function divide(a: number, b: number): number
 
 The quotient of `a` divided by `b`.
 
+### `square`
+
+Squares a number.
+
+```typescript
+function square(x: number): number
+```
+
+#### Parameters
+
+- `x`: The number to be squared.
+
+#### Returns
+
+The square of `x`.
+
 #### Throws
 
 - `Error` if `b` is 0 (division by zero is not allowed).
