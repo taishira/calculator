@@ -21,4 +21,4 @@ jobs:
       # インポートマップを読み取ってモジュール情報を表示
       - name: Analyze Import Map
         run: |
-          deno run --allow-read analyze_imports.ts
+          deno run -A analyze_imports.ts
