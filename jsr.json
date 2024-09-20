@@ -1,5 +1,8 @@
 {
-    "name": "@taishira/culculator",
+    "name": "@taishira/calculator",
     "version": "0.0.3",
-    "exports": "./mod.ts"
+    "exports": "./mod.ts",
+    "imports": {
+        "@valibot/valibot": "jsr:@valibot/valibot@^0.42.0"
+    }
 }
