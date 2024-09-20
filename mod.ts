@@ -1,6 +1,6 @@
 /**
  * Add two numbers
- * aa
+ * aaa
  *
  * @param a The first number
  * @param b The second number
