@@ -1,4 +1,4 @@
-const denoConfig = await Deno.readTextFile("jsr.json");
+const denoConfig = await Deno.readTextFile("deno.json");
 const denoConfigData = JSON.parse(denoConfig);
 
 if (denoConfigData.imports) {

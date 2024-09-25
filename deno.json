@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@zettca/ntoa": "jsr:@zettca/ntoa@^0.4.2"
+  }
+}
