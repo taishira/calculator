@@ -3,7 +3,7 @@
     "version": "0.0.3",
     "exports": "./mod.ts",
     "imports": {
-      "@valibot/valibot": "jsr:@valibot/valibot@^0.42.0"
+      "@zettca/ntoa": "jsr:@zettca/ntoa@^0.4.2"
     },
     "license": "MIT"
   }
